@@ -45,5 +45,5 @@
 <br/>
 <br/>
   
-  [![Top Langs](https://github-readme-stats.vercel.app/api?username=suprium&theme=algolia&show_icons=true)](https://github.com/suprium)
+  [![Top Langs](https://github-readme-stats.vercel.app/api?username=suprium&theme=dracula&show_icons=true)](https://github.com/suprium)
 </div>
