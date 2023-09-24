@@ -18,7 +18,7 @@
  <img alt="VueJs" src="https://img.icons8.com/?size=48&id=rY6agKizO9eb&format=png" />
 
 </div>
-<h2>Projects :</h2>
+<h2 align="center">Projects :</h2>
 
 <div  align="center">
   <a href="https://github.com/Suprium/suprium.gitHub.io">
