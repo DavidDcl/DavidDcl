@@ -1,15 +1,49 @@
-<h1 align="center">Hi 👋, I'm David Lopes</h1>
-<h3 align="center">A passionate off tech currently on training to become a Web Dev</h3>
+<div align="center">
+  <h2>Hi there 👋</h2>
+  <p>A passionate off tech currently on training to become a Web Dev 💪</p>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+  ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Suprium&theme=dracula)
+ <h2>Tech i use : </h2>
+  <img alt="git" src="https://img.icons8.com/?size=48&id=20906&format=png" />
+  <img alt="npm" src="https://img.icons8.com/?size=48&id=QERhMe8qpblP&format=png"/>
+  <img alt="html5" src="https://img.icons8.com/?size=48&id=20909&format=png" />
+  <img alt="Nodejs" src="https://img.icons8.com/?size=48&id=hsPbhkOH4FMe&format=png"/>
+  <img alt="Javascript" src="https://img.icons8.com/?size=48&id=108784&format=png" />
+  <img alt="React" src="https://img.icons8.com/?size=48&id=VXQrhy9fWtm1&format=png" />
+  <img alt="Tailwind" src="https://img.icons8.com/?size=48&id=4PiNHtUJVbLs&format=png" />
+  
+ <h2>Next steps: </h2>
+ <img alt="TypeScript" src="https://img.icons8.com/?size=48&id=uJM6fQYqDaZK&format=png" />
+ <img alt="NextJs" src="https://img.icons8.com/?size=48&id=yUdJlcKanVbh&format=png" />
+ <img alt="VueJs" src="https://img.icons8.com/?size=48&id=rY6agKizO9eb&format=png" />
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+</div>
+<h2>Projects :</h2>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=suprium&show_icons=true&locale=en&layout=compact" alt="suprium" /></p>
+<div  align="center">
+  <a href="https://github.com/Suprium/suprium.gitHub.io">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=suprium&repo=suprium.gitHub.io" />
+  </a>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=suprium&show_icons=true&locale=en" alt="suprium" /></p>
+  <a href="https://github.com/Suprium/TimeHub-Project">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=suprium&repo=TimeHub-Project" />
+  </a>
+ 
+<br />
+<br />
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=suprium&" alt="suprium" /></p>
+  <a href="https://github.com/Cedricsia/World-Catastrophe-Survival">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=suprium&repo=World-Catastrophe-Survival" />
+  </a>
+ 
+</div>
+
+
+
+<div align="center">
+<br/>
+<br/>
+<br/>
+  
+  [![Top Langs](https://github-readme-stats.vercel.app/api?username=suprium&theme=algolia&show_icons=true)](https://github.com/suprium)
+</div>
