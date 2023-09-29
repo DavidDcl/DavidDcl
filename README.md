@@ -32,7 +32,7 @@
 <br />
 <br />
 
-  <a href="https://github.com/Cedricsia/World-Catastrophe-Survival">
+  <a href="https://github.com/suprium/World-Catastrophe-Survival">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=suprium&repo=World-Catastrophe-Survival" />
   </a>
  
