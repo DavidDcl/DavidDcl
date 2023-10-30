@@ -45,5 +45,5 @@
 <br/>
 <br/>
   
-  [![Top Langs](https://github-readme-stats.vercel.app/api?username=suprium&theme=dracula&show_icons=true)](https://github.com/DavidDcl)
+  [![Top Langs](https://github-readme-stats.vercel.app/api?username=DavidDcl&theme=dracula&show_icons=true)](https://github.com/DavidDcl)
 </div>
