@@ -2,7 +2,7 @@
   <h2>Hi there 👋</h2>
   <p>A passionate off tech currently on training to become a Web Dev 💪</p>
 
-  ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Suprium&theme=dracula)
+  ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=DavidDcl&theme=dracula)
  <h2>Tech i use : </h2>
   <img alt="git" src="https://img.icons8.com/?size=48&id=20906&format=png" />
   <img alt="npm" src="https://img.icons8.com/?size=48&id=QERhMe8qpblP&format=png"/>
@@ -22,18 +22,18 @@
 
 <div  align="center">
   <a href="https://github.com/Suprium/suprium.gitHub.io">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=suprium&repo=suprium.gitHub.io" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DavidDcl&repo=suprium.gitHub.io" />
   </a>
 
   <a href="https://github.com/Suprium/TimeHub-Project">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=suprium&repo=TimeHub-Project" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DavidDcl&repo=TimeHub-Project" />
   </a>
  
 <br />
 <br />
 
   <a href="https://github.com/suprium/World-Catastrophe-Survival">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=suprium&repo=World-Catastrophe-Survival" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DavidDcl&repo=World-Catastrophe-Survival" />
   </a>
  
 </div>
@@ -45,5 +45,5 @@
 <br/>
 <br/>
   
-  [![Top Langs](https://github-readme-stats.vercel.app/api?username=suprium&theme=dracula&show_icons=true)](https://github.com/suprium)
+  [![Top Langs](https://github-readme-stats.vercel.app/api?username=suprium&theme=dracula&show_icons=true)](https://github.com/DavidDcl)
 </div>
